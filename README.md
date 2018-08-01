@@ -6,7 +6,7 @@ Este projeto está estruturado com os assuntos relacionados ao JSF e docker.
 ### José Ferreira
 ## Para executar:
 ### Faça o clone do projeto
-#### git clone  https://github.com/joseferreira01/atividade-jsf.git
+#### git clone  https://github.com/joseferreira01/Peer_JSF_Docker
 ### Dentro da pasta criada apois o clone ser concluido, abra o terminal 
 ### execulte o arquivo run.sh
 ## sh run.sh
